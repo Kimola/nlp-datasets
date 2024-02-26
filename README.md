@@ -18,6 +18,9 @@ We wanted to show the value of customer feedback analysis in many different busi
 [Google Play Reviews](https://github.com/kimola/nlp-datasets/tree/main/google-play-reviews)<br>
 [App Store Reviews](https://github.com/kimola/nlp-datasets/tree/main/app-store-reviews)<br>
 [G2 Reviews](https://github.com/kimola/nlp-datasets/tree/main/g2-reviews)<br>
+[Udemy Reviews](https://github.com/Kimola/nlp-datasets/tree/main/udemy-reviews)<br>
+[Etsy Reviews](https://github.com/Kimola/nlp-datasets/tree/main/etsy-reviews)<br>
+
 
 ## Usage
 Marketing and research professionals can create a 7-day free [Kimola Cognitive](https://kimola.com/cognitive) account to upload these dataset files to automatically get **NPS**, **sentiment analysis**, **content classifications** and **summaries**. Also, each file can be analysed with a local machine-learning model.
