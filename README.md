@@ -1,5 +1,5 @@
 # NLP Datasets
-Welcome to the NLP Datasets repository of customer feedback collected from various platforms on the Internet!
+Welcome to the NLP Datasets repository of [customer feedback](https://kimola.com/customer-feedback-analysis) collected from various platforms on the Internet!
 
 ## Overview
 This repository contains a variety of **customer feedback datasets**, making it a convenient source for those working with [Natural Language Processing (NLP)](https://kimola.com/cognitive/resources/definition-of-natural-language-processing-nlp-and-its-applications) datasets. Each dataset file contains customer feedback from different industries, products and services. These datasets can be used individually or combined to create a larger dataset.
