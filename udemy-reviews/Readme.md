@@ -8,7 +8,7 @@
 **Robin&Jesper** is a great course that provides in-depth information about the world of digital marketing! [This dataset](https://github.com/Kimola/nlp-datasets/blob/main/udemy-reviews/Robin%26Jesper%20(Digital%20Marketing)%20-%20Udemy%20User%20Reviews%20-%20English.csv), which we created by compiling user reviews on **Udemy**, includes the content structure of the course, the instructors' style of narration, the students' ability to apply what they learned, and their overall satisfaction. Some say that they successfully implemented their digital marketing strategies thanks to this course, while others make some suggestions saying, 'The course could have been a little more comprehensive.' If you want to gain a strong foundation in digital marketing and make detailed analyses based on user reviews of the Robin&Jesper course, this dataset is for you!
 ## Web Development (Digital Course) Dataset
 **Web Development** is a great starting point for those looking to build a strong career in the digital world! [This dataset](https://github.com/Kimola/nlp-datasets/blob/main/udemy-reviews/Web%20Development%20(Digital%20Course)%20-%20Udemy%20User%20Reviews%20-%20English.csv), which we compiled by collecting user reviews on **Udemy**, provides comprehensive feedback on the quality of the course content, teaching methods, practical applications, and overall student satisfaction. Some say that the course made great progress in their projects by teaching the web development process step by step, while others make suggestions such as ‘There could have been more live coding examples.’ If you want to build a strong foundation in web development and create reports based on user reviews of this course, this dataset is for you!
-# Building Model in Kimola
+# Create a Report
 Let's explain how to create your reports in **Kimola**. Go to [kimola.com](https://kimola.com/) in your browser and create an account in Kimola and click on the dashboard button. Then click on the "Home" button on the left. Yes, you have made great progress up to this point. Then you will see a cloud icon on the screen that opens. And under the icon, click on "upload your custom dataset!" Now select the dataset you downloaded to your computer and upload it. If you want, you can also do this by dragging the downloaded dataset file onto the cloud icon.
 
 ![Datasets](https://github.com/user-attachments/assets/0b9bff79-e85b-42ba-8851-49ee42b90e9d)
@@ -20,4 +20,4 @@ On the "Interpretations" page that opens, select what you want to see in your re
 ![Datasets (2)](https://github.com/user-attachments/assets/92867ccc-3228-46b5-880b-5286299bb2e0)
 On the "Review" page that opens, give your report a name and select the language you want to create your report in. That's it!
 
-![Datasets (3)](https://github.com/user-attachments/assets/b5f7ddba-0497-4486-8b34-66979e1249c3)
+![Datasets (4)](https://github.com/user-attachments/assets/76d889a0-3c94-4116-b3ae-262ff0e4ebe3)
