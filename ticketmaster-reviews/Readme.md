@@ -11,7 +11,7 @@ Let's explain how to create your reports in Kimola. Go to [kimola.com](https://k
 On the Pages and Columns page that opens, select "comments" in the "text column" section. You don't need to make any selections in the "URL column" section because these datasets don't include the URL for the comments. Finally, select "date" in the "date column" section and click the continue button to continue.
 
 ![Datasets (1)](https://github.com/user-attachments/assets/92548c29-d548-4957-991d-7895e51a69ec)
-On the "Comments" page that opens, select what you want to see in your report or skip this page by clicking the "skip" button.
+On the "Interpretations" page that opens, select what you want to see in your report or skip this page by clicking the "skip" button.
 
 ![Datasets (2)](https://github.com/user-attachments/assets/997a1e3a-d7f7-4917-b2be-5ab27934b601)
 On the "Review" page that opens, give your report a name and select the language you want to create your report in. That's it!
