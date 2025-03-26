@@ -12,7 +12,7 @@ While **Amazon** continues to be the go-to place for shopping with all kinds of 
 **The Nike Men's Sneaker** is a great choice for runners looking for comfort and performance! [This dataset](https://github.com/Kimola/nlp-datasets/blob/main/amazon-product-reviews/Nike%20Men's%20Sneaker%20(Running%20Shoes)%20-%20Amazon%20Product%20Reviews.csv), which we created by compiling user reviews on **Amazon**, includes many different feedbacks from the shoe's comfort to its durability, design to running performance. Some say that the Nike Men's Sneaker maintains its comfort even with long-term use and improves their running experience, while others make small suggestions such as 'I recommend buying a few shoe sizes larger'. If you want to analyze the user experiences of the Nike Men's Sneaker and take a closer look at its performance, this dataset is for you!
 ## Stanley (Thermos) Dataset
 **Stanley Thermos** is a solid product that makes your life easier by keeping your hot drinks hot for a long time and your cold drinks cool! [This dataset](https://github.com/Kimola/nlp-datasets/blob/main/amazon-product-reviews/Stanley%20(Thermos)%20-%20Amazon%20Product%20Reviews.csv), which we created by compiling user comments on **Amazon**, includes many different feedbacks from Stanley Thermos' insulation power to its durability, from ease of carrying to general satisfaction. Some state that the thermos' ability to keep hot for a long time is excellent, while others make suggestions for the product to be improved with constructive comments such as 'It could have been a little lighter'. If you want to analyze Stanley Thermos' user experiences and examine the product's performance in detail, this dataset is for you!
-# How to create a report in Kimola?
+# Create a Raports
 Let's explain how to create your reports in **Kimola**. Go to [kimola.com](https://kimola.com/) in your browser and create an account in Kimola and click on the dashboard button. Then click on the "Home" button on the left. Yes, you have made great progress up to this point. Then you will see a cloud icon on the screen that opens. And under the icon, click on "upload your custom dataset!" Now select the dataset you downloaded to your computer and upload it. If you want, you can also do this by dragging the downloaded dataset file onto the cloud icon.
 
 ![Datasets](https://github.com/user-attachments/assets/17febbe5-5195-4ab3-9712-8898bf8f2961)
@@ -24,4 +24,4 @@ On the "Interpretations" page that opens, select what you want to see in your re
 ![Datasets (2)](https://github.com/user-attachments/assets/db82deca-083d-49ad-9871-4274f75e565e)
 On the "Review" page that opens, give your report a name and select the language you want to create your report in. That's it!
 
-![Datasets (3)](https://github.com/user-attachments/assets/30b1144e-abcc-4682-8600-d7d1e3a65941)
+![Datasets (4)](https://github.com/user-attachments/assets/579c3a38-8f72-47f3-9c4e-a9c77ebb16a1)
