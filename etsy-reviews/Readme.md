@@ -1,0 +1,19 @@
+# Dataset
+The dataset we created by collecting user reviews of **Dezaart Wood Pendant Light** and **Robot Baby products** on **Etsy** was prepared to help you understand the performance and customer satisfaction of both products. This dataset includes many different feedbacks from the design of Dezaart Wood Pendant Light to quality, ease of assembly to customer service. For Robot Baby, you can find a wide range of user reviews from the educational value of the toys to their durability, ease of use to their impact on children. This data, which we created with real user reviews on Etsy, allows for a closer analysis of both products and will help you when creating your reports!
+## Dezaart Wood Pendant Light (Design Company) Dataset
+**Dezaart Wood Pendant Light** is an elegant design that brings elegance and naturalness to home decoration. [This dataset](https://github.com/Kimola/nlp-datasets/blob/main/etsy-reviews/Dezaart%20Wood%20Pendant%20Light%20(Design%20Company)%20-%20Etsy%20Product%20Reviews%20-%20English.csv), which we created by compiling user reviews on **Etsy**, includes various user feedbacks from the product's aesthetic design to its ease of installation. Some say that this stylish and modern lighting adds an elegant atmosphere to their homes, while others make constructive comments such as 'It could have been a little more durable' and make suggestions about the durability of the product. This dataset was prepared to provide you with a more in-depth look at how the Dezaart Wood Pendant Light performs in terms of both design and functionality.
+## Robot Baby (Toys) Dataset
+**Robot Baby** stands out as a fun and educational toy for children. [This dataset](https://github.com/Kimola/nlp-datasets/blob/main/etsy-reviews/Robot%20Baby%20(Toys)%20-%20Etsy%20Product%20Reviews%20-%20English.csv), which we created by compiling user reviews on **Etsy**, includes a wide range of feedback from Robot Baby's educational benefits to ease of use, durability and impact on children. Some say that this interactive robot develops their children's imagination and contributes to their learning process, while others make constructive comments and suggestions such as 'More features could be added'. This dataset provides data that will allow you to understand Robot Baby's impact on users and its overall performance.
+# How to create a report in Kimola?
+Let's explain how to create your reports in **Kimola**. Go to [kimola.com](https://kimola.com/) in your browser and create an account in Kimola and click on the dashboard button. Then click on the "Home" button on the left. Yes, you have made great progress up to this point. Then you will see a cloud icon on the screen that opens. And under the icon, click on "upload your custom dataset!" Now select the dataset you downloaded to your computer and upload it. If you want, you can also do this by dragging the downloaded dataset file onto the cloud icon.
+
+![Datasets](https://github.com/user-attachments/assets/ce33675c-a9f7-423b-ae86-b5f780ace548)
+On the Pages and Columns page that opens, select "comments" in the "text column" section. You don't need to make any selections in the "URL column" section because these datasets don't include the URL for the comments. Finally, select "date" in the "date column" section and click the continue button to continue.
+
+![Datasets (1)](https://github.com/user-attachments/assets/2b8f2c62-a068-4ab6-9d52-488de5a2a731)
+On the "Interpretations" page that opens, select what you want to see in your report or skip this page by clicking the "skip" button.
+
+![Datasets (2)](https://github.com/user-attachments/assets/3df0df82-c89b-442b-b9e9-d498fbf09d2e)
+On the "Review" page that opens, give your report a name and select the language you want to create your report in. That's it!
+
+![Datasets (3)](https://github.com/user-attachments/assets/5bcdd60e-dad4-44fd-81b2-89dfac362f06)
