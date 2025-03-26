@@ -18,7 +18,7 @@ The best way to understand how trustworthy a brand is online is to read user rev
 **N’jesresor.se** is a travel agency that makes planning your dream holiday easy and offers unforgettable travel experiences! [This dataset](https://github.com/Kimola/nlp-datasets/blob/main/trustpilot-reviews/N%E2%80%9Djesresor.se%20(Travel%20Agency)%20-%20Trustpilot%20Customer%20Reviews%20-%20Swedish.csv), which we compiled from user reviews on **Trustpilot**, includes how N’jesresor.se evaluates the quality of its holiday packages, flight and hotel booking services, and customer satisfaction. While some are happy to have found the right place for a great holiday, others leave positive comments saying ‘My travel process was smooth, I would definitely choose it again!’ If you want to analyze the travel experiences offered by N’jesresor.se in detail, this dataset is for you!
 ## United Airlines (Airline Company) Dataset
 **United Airlines** is a well-established airline company that offers a wide flight network and a variety of service options for those who want to travel around the world! [This dataset](https://github.com/Kimola/nlp-datasets/blob/main/trustpilot-reviews/United%20Airlines%20(Airline%20Company)%20-%20Trustpilot%20Reviews.csv), which we created by compiling user reviews on **Trustpilot**, includes feedback on United Airlines' flight services, ticket prices, passenger experience and customer service. While some have a comfortable flight experience, others make suggestions such as 'Check-in process could have been faster'. If you want to take a closer look at the flight experiences offered by United Airlines and create reports from user reviews, this dataset is for you!
-# How to create a report in Kimola?
+# Create a Report
 Let's explain how to create your reports in **Kimola**. Go to [kimola.com](https://kimola.com/) in your browser and create an account in Kimola and click on the dashboard button. Then click on the "Home" button on the left. Yes, you have made great progress up to this point. Then you will see a cloud icon on the screen that opens. And under the icon, click on "upload your custom dataset!" Now select the dataset you downloaded to your computer and upload it. If you want, you can also do this by dragging the downloaded dataset file onto the cloud icon.
 
 ![Datasets](https://github.com/user-attachments/assets/09ea7da6-f8e8-4f1b-a6ae-731168b00a1e)
@@ -30,4 +30,4 @@ On the "Interpretations" page that opens, select what you want to see in your re
 ![Datasets (2)](https://github.com/user-attachments/assets/ab2ffdb9-7d0a-471b-9df3-20cf089f30e2)
 On the "Review" page that opens, give your report a name and select the language you want to create your report in. That's it!
 
-![Datasets (3)](https://github.com/user-attachments/assets/dd62f6ff-fbd6-4524-ae2a-932a4789ba04)
+![Datasets (4)](https://github.com/user-attachments/assets/12ebbde2-598c-4f6d-a196-de9b0b4cda6f)
