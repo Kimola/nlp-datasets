@@ -6,7 +6,7 @@ Are you ready to discover the user experiences of three giant apps that have bec
 **Spotify** is one of the indispensable platforms of the music world with millions of songs, podcasts and playlists! [This dataset](https://github.com/Kimola/nlp-datasets/blob/main/google-play-reviews/Spotify%20(Streaming%20App)%20-%20Google%20Play%20Reviews.csv), which we created by compiling user comments on the **Google Play Store**, includes feedback on many topics such as the listening experience offered by Spotify, the use of the interface, the differences between the premium and free versions, and the success of the algorithms. While users are sometimes amazed by how accurate their music discovery is, sometimes they may complain, 'Why does it always recommend the same songs?' If you want to discover Spotify with numbers, comments and user habits, this dataset is for you!
 ## Subway Surfers (Mobile Game) Dataset
 **Subway Surfers** is a legendary mobile game that brings together speed, reflexes and endless running excitement! [This dataset](https://github.com/Kimola/nlp-datasets/blob/main/google-play-reviews/Subway%20Surfers%20(Mobile%20Game)%20-%20Google%20Play%20Reviews.csv), which we created by compiling user comments on the **Google Play Store**, includes player feedback on many issues such as Subway Surfers' game dynamics, graphic quality, character variety and ad balance. While some skillfully jump over trains, others complain, 'If I could run a little longer, I would break a world record!' If you want to explore the Subway Surfers universe with data and analyze player habits, this dataset is for you!
-# How to create a report in Kimola?
+# Create a Report
 Let's explain how to create your reports in **Kimola**. Go to [kimola.com](https://kimola.com/) in your browser and create an account in Kimola and click on the dashboard button. Then click on the "Home" button on the left. Yes, you have made great progress up to this point. Then you will see a cloud icon on the screen that opens. And under the icon, click on "upload your custom dataset!" Now select the dataset you downloaded to your computer and upload it. If you want, you can also do this by dragging the downloaded dataset file onto the cloud icon.
 
 ![Datasets](https://github.com/user-attachments/assets/4c7464dd-0c11-4aeb-bd87-f930cf0ed207)
@@ -18,4 +18,4 @@ On the "Interpretations" page that opens, select what you want to see in your re
 ![Datasets (2)](https://github.com/user-attachments/assets/b26f3aab-1436-43b6-9a79-06d506cf7ef2)
 On the "Review" page that opens, give your report a name and select the language you want to create your report in. That's it!
 
-![Datasets (3)](https://github.com/user-attachments/assets/91818451-52f8-4f54-b851-a9774ccc8528)
+![Datasets (4)](https://github.com/user-attachments/assets/f4a011e0-8768-4482-9bb2-c8c0f1cf26eb)
